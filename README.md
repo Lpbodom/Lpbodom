@@ -10,7 +10,6 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 - 📍 Belo Horizonte MG
 - 💻 Analista de teste/QA (https://www.quantumweb.com.br/)
-- 🌈 Sharing a little of my Front-End journey at [Papo de Dev](https://www.instagram.com/papodedev/) 
 
 Reach me out 👇🏼
 
